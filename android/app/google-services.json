@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "264363549517",
+    "firebase_url": "https://whattheysee-5e5d4.firebaseio.com",
+    "project_id": "whattheysee-5e5d4",
+    "storage_bucket": "whattheysee-5e5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264363549517:android:4193293add71dd27d0cd04",
+        "android_client_info": {
+          "package_name": "com.wts.whattheysee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264363549517-lnjolfhkjiiq4sqg7sc2smldn3a8er84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wts.whattheysee",
+            "certificate_hash": "a1387e1dd27c4540d3538eaac3e6b4d3417af695"
+          }
+        },
+        {
+          "client_id": "264363549517-255rh4vmiua706s3m3r3vb3coo642e2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wts.whattheysee",
+            "certificate_hash": "00faad96bd0e9a264954677d7ffebc2a48c8b520"
+          }
+        },
+        {
+          "client_id": "264363549517-qr7srkp2og37e49sunf3vfdgcqlq4f4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wts.whattheysee",
+            "certificate_hash": "56ef0afc4273643e2fe7d98c8f68fe66a4f75595"
+          }
+        },
+        {
+          "client_id": "264363549517-0d0hdhehofcsj7h16cku8ur26hou004g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZbNUlc_9HjMDBmlyCAkKxb9cwUVLMq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264363549517-0d0hdhehofcsj7h16cku8ur26hou004g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264363549517-cntrd52855h7gg6oq0ubvqls3hh5r9rb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wts.whattheysee",
+                "app_store_id": "23092020"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
