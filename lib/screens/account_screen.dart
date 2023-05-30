@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'package:whattheysee/components/ob_homecontroller.dart';
 import 'package:whattheysee/components/photo_hero.dart';
 import 'package:whattheysee/screens/login_screen.dart';
-import 'package:whattheysee/screens/ui/chat/homechat.dart';
+import 'ui/chat/chat.dart';
 
 class AccountScreen extends StatelessWidget {
   AccountScreen({Key? key}) : super(key: key);
@@ -572,7 +572,7 @@ class AccountScreen extends StatelessWidget {
                     ),
                     InkWell(
                       onTap: () async {
-                        Get.to(() => MyHomeChat());
+                        Get.to(() => UserSelectionPage());
                         pushToGo();
                       },
                       child: Container(

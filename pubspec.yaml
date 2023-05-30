@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    openai: ^1.0.0
 
   
   get: 
@@ -70,7 +71,7 @@ dependencies:
 
   webview_flutter:
   path_provider:
-  http:
+  http: ^0.13.4
 
   rxdart:
 

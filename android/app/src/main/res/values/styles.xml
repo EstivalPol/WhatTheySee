@@ -16,6 +16,6 @@
         <item name="android:windowBackground">@android:color/white</item>
     </style>
 
-    <color name="pink">#dd3e8b</color>
+    <color name="green">#448F79</color>
     <string name="default_notification_channel_id">21201</string>
 </resources>
