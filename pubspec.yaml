@@ -30,8 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-    openai: ^1.0.0
-
+  
+  openai: ^1.0.0
   
   get: 
   get_storage:
